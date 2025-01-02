@@ -1,0 +1,23 @@
+
+All commands can get a help menu by using 'command' --help
+
+ls: Used to list files and directories in current directory. 
+Can be modified with -la
+
+cd: Used to change directories.
+
+cat: Used to display the contents of a file.
+
+nano: A terminal based Text editor.
+
+rm: Used to remove a file.
+
+touch: used to create a file
+
+pwd: Prints Working Directory.
+
+mv: Used to move a directory.
+
+mkdir: Creates a directory
+
+grep: used to find patterns in a file. 
