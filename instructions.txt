@@ -1,4 +1,5 @@
 
+Please ignore the README.md
 This will test your skills in basic linux commands. You will also be provided a command list (commands.txt) but try not to look at it unless you are truly stuck. Try not to use external resources. You are also provided a text file named answers.txt, this is where you will put your answers to any questions. 
 
 This enviroment is simulating a single linux machine with two users, brandon and james. Use the commands you have learned so far to solve these problems. 
